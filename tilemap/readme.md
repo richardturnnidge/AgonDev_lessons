@@ -1,5 +1,5 @@
-### Example of transforming RGBA2222 Bitmaps
+### Importing RGBA2222 tile maps
 
-Using transformation buffers.
+Using vdp buffers api.
 
 Press ESC to exit the program.
